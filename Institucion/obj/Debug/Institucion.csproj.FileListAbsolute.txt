@@ -1,0 +1,7 @@
+C:\Users\elena\source\repos\Institucion\Institucion\obj\Debug\Institucion.csprojResolveAssemblyReference.cache
+C:\Users\elena\source\repos\Institucion\Institucion\obj\Debug\Institucion.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\Institucion\Institucion\bin\Debug\Institucion.exe.config
+C:\Users\elena\source\repos\Institucion\Institucion\bin\Debug\Institucion.exe
+C:\Users\elena\source\repos\Institucion\Institucion\bin\Debug\Institucion.pdb
+C:\Users\elena\source\repos\Institucion\Institucion\obj\Debug\Institucion.exe
+C:\Users\elena\source\repos\Institucion\Institucion\obj\Debug\Institucion.pdb
